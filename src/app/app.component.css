@@ -1,0 +1,10 @@
+header {
+    height:100px;
+    text-align: center;
+}
+
+header h1 {
+    color: rgb(165, 224, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+}
