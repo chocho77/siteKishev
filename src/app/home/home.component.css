@@ -3,3 +3,12 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.container .swings a img:hover{
+    border: 1px solid lightblue;
+    transform:scale(1.5)
+}
+
+.container .swings a h2 {
+    text-align: center;
+}
