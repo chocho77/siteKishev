@@ -26,3 +26,13 @@
 .container .consumable a h2 {
     text-align: center;
 }
+
+footer{
+    height:150px;
+}
+
+#footer-text #footer-h2{
+    float:left;
+    margin-top:70px;
+    margin-left: 1300px;
+}
