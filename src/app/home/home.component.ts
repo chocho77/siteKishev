@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
+  swingsImageUrl = "assets/images/bocianie-gniazda.png";
+  consumableImageUrl = "assets/images/hamaki.png";
 
 }
