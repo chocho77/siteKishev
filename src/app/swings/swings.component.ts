@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './swings.component.css'
 })
 export class SwingsComponent {
-
+  // titleImg :  Люлка за щъркелово гнездо 125 см - цветна (без мрежа) ГИГАНТ 
+  nestswing125GiantUrl="assets/imgswings/nestswing125Giant/nestswing125Giant.jpg";
+ 
 }
