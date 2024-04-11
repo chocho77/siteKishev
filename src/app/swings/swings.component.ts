@@ -23,7 +23,6 @@ export class SwingsComponent {
   // titleImg: Люлка щъркелово гнездо 90 см - цветна фина мрежа
   storkNestSwing90CoFineMeshUrl = "assets/imgswings/storkNestSwing90CoFineMesh/storkNestSwing90CoFineMesh.jpg";
   // titleImg: Люлка щъркелово гнездо 90 см - цветна фина мрежа RAINBOW
-  
-
+  storkNestSwing90CoFineMeshRainbowUrl = "assets/imgswings/storkNestSwing90CoFineMeshRainbow/storkNestSwing90CoFineMeshRainbow.jpg";
   
 }
