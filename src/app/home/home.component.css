@@ -3,3 +3,36 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.container .swings a img:hover{
+    border: 1px solid lightblue;
+    transform:scale(1.5)
+}
+
+.container .swings a h2 {
+    text-align: center;
+}
+
+.container .consumable a img {
+    width: 100px;
+    margin-left: 50px;
+}
+
+.container .consumable a img:hover {
+    border:1px solid lightblue;
+    transform:scale(1.5);
+}
+
+.container .consumable a h2 {
+    text-align: center;
+}
+
+footer{
+    height:150px;
+}
+
+#footer-text #footer-h2{
+    float:left;
+    margin-top:70px;
+    margin-left: 1300px;
+}
