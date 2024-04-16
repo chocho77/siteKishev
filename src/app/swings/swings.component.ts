@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-swings',
   standalone: true,
-  imports: [],
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './swings.component.html',
   styleUrl: './swings.component.css'
 })
@@ -24,6 +25,4 @@ export class SwingsComponent {
   storkNestSwing90CoFineMeshUrl = "assets/imgswings/storkNestSwing90CoFineMesh/storkNestSwing90CoFineMesh.jpg";
   // titleImg: Люлка щъркелово гнездо 90 см - цветна фина мрежа RAINBOW
   storkNestSwing90CoFineMeshRainbowUrl = "assets/imgswings/storkNestSwing90CoFineMeshRainbow/storkNestSwing90CoFineMeshRainbow.jpg";
-  // for test only!!!
-  pathImagesUrl = "assets/picture/clouds.jpg";
 }
