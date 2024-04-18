@@ -8,5 +8,11 @@ import { Component } from '@angular/core';
   styleUrl: './storknestswing125giantwoutnet.component.css'
 })
 export class Storknestswing125giantwoutnetComponent {
+  
+  mainImageUrl = "assets/imagesone/holographic-fluid-shape.avif";
+  similarProductOneUrl = "assets/imagesone/similarProductOne.avif";
+  similarProductTwoUrl = "assets/imagesone/similarProductTwo.avif";
+  similarProductThreeUrl = "assets/imagesone/similarProductThree.avif";
+  similarProductFourUrl = "assets/imagesone/similarProductFour.avif";
 
 }
