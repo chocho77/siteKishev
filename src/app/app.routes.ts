@@ -10,7 +10,7 @@ import { Storknestswing60cowithnetComponent } from './storknestswing60cowithnet/
 import { Storknestswing90cowoutnetComponent} from './storknestswing90cowoutnet/storknestswing90cowoutnet.component';
 import { Storknestswing90cowithnetComponent} from './storknestswing90cowithnet/storknestswing90cowithnet.component';
 import { Storknestswing90cofinemeshComponent } from './storknestswing90cofinemesh/storknestswing90cofinemesh.component';
-
+import { Storknestswing90cofinemeshrainbowComponent } from './storknestswing90cofinemeshrainbow/storknestswing90cofinemeshrainbow.component';
 
 export const routes: Routes = [
     {'path':'', component:HomeComponent},
@@ -23,5 +23,6 @@ export const routes: Routes = [
     {'path': 'storknestswing60cowithnet', component:Storknestswing60cowithnetComponent},
     {'path': 'storknestswing90cowoutnet', component:Storknestswing90cowoutnetComponent},
     {'path': 'storknestswing90cowithnet', component:Storknestswing90cowithnetComponent},
-    {'path': 'storknestswing90cofinemesh', component:Storknestswing90cofinemeshComponent}
+    {'path': 'storknestswing90cofinemesh', component:Storknestswing90cofinemeshComponent},
+    {'path': 'storknestswing90cofinemeshrainbow', component:Storknestswing90cofinemeshrainbowComponent}
 ];
