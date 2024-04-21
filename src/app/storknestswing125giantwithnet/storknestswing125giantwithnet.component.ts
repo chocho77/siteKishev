@@ -24,4 +24,7 @@ export class Storknestswing125giantwithnetComponent {
    // titleImg: Люлка щъркелово гнездо 90 см -цветна (без мрежа)
    storkNestSwing90CoWOutNetUrl = "assets/imgswings/storkNestSwing90CoWOutNet/storkNestSwing90CoWOutNet.jpg";
 
+   // titleImg: Люлка щъркелово гнездо 90 см - цветна (с мрежа)
+  storkNestSwing90CoWithNetUrl = "assets/imgswings/storkNestSwing90CoWithNet/storkNestSwing90CoWithNet.jpg";
+
 }

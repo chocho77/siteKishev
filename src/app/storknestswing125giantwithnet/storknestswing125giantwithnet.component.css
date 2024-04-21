@@ -47,6 +47,10 @@
     padding: 10px;
 }
 
+.main-container .right-container .similar-productFour img {
+    height:150px;
+}
+
 footer{
     height:150px;
 }
