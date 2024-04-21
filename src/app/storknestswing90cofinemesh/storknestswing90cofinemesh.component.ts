@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-storknestswing90cofinemesh',
   standalone: true,
-  imports: [],
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './storknestswing90cofinemesh.component.html',
   styleUrl: './storknestswing90cofinemesh.component.css'
 })

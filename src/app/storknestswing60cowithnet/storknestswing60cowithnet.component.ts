@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-storknestswing60cowithnet',
   standalone: true,
-  imports: [],
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './storknestswing60cowithnet.component.html',
   styleUrl: './storknestswing60cowithnet.component.css'
 })
