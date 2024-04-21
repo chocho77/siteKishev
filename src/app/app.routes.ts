@@ -5,6 +5,7 @@ import { ContactsComponent } from './contacts/contacts.component';
 import { SwingsComponent } from './swings/swings.component';
 import { Storknestswing125giantwoutnetComponent } from './storknestswing125giantwoutnet/storknestswing125giantwoutnet.component';
 import { Storknestswing125giantwithnetComponent } from './storknestswing125giantwithnet/storknestswing125giantwithnet.component';
+import { Storknestswing60cowoutnetComponent } from './storknestswing60cowoutnet/storknestswing60cowoutnet.component';
 
 export const routes: Routes = [
     {'path':'', component:HomeComponent},
@@ -13,4 +14,5 @@ export const routes: Routes = [
     {'path': 'swings', component:SwingsComponent},
     {'path': 'storknestswing125giantwoutnet', component:Storknestswing125giantwoutnetComponent},
     {'path': 'storknestswing125giantwithnet', component:Storknestswing125giantwithnetComponent},
+    {'path': 'storknestswing60cowoutnet', component:Storknestswing60cowoutnetComponent}
 ];
