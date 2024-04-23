@@ -2,14 +2,13 @@ import { Component } from '@angular/core';
 import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
-  selector: 'app-storknestswing125giantwoutnet',
+  selector: 'app-storknestswing125giantwithnet',
   standalone: true,
-  imports: [RouterLink, RouterOutlet],
-  templateUrl: './storknestswing125giantwoutnet.component.html',
-  styleUrl: './storknestswing125giantwoutnet.component.css'
+  imports: [RouterLink,RouterOutlet],
+  templateUrl: './storknestswing125giantwithnet.component.html',
+  styleUrl: './storknestswing125giantwithnet.component.css'
 })
-export class Storknestswing125giantwoutnetComponent {
-
+export class Storknestswing125giantwithnetComponent {
   // titleImg :  Люлка за щъркелово гнездо 125 см - цветна (без мрежа) ГИГАНТ 
   nestswing125GiantUrl = "assets/imgswings/nestswing125Giant/nestswing125Giant.jpg";
   // similar products
@@ -25,5 +24,8 @@ export class Storknestswing125giantwoutnetComponent {
 
    // titleImg: Люлка щъркелово гнездо 90 см -цветна (без мрежа)
    storkNestSwing90CoWOutNetUrl = "assets/imgswings/storkNestSwing90CoWOutNet/storkNestSwing90CoWOutNet.jpg";
+
+   // titleImg: Люлка щъркелово гнездо 90 см - цветна (с мрежа)
+  storkNestSwing90CoWithNetUrl = "assets/imgswings/storkNestSwing90CoWithNet/storkNestSwing90CoWithNet.jpg";
 
 }
