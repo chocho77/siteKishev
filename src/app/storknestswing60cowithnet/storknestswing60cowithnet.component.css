@@ -35,6 +35,10 @@
     padding: 10px;
 }
 
+.main-container .right-container .similar-productTwo img {
+    height:150px;
+}
+
 .main-container .right-container .similar-productThree {
     width: 300px;
     height: 200px;
