@@ -29,6 +29,10 @@
     padding: 10px;
 }
 
+.main-container .right-container .similar-productOne img {
+    height: 150px;
+}
+
 .main-container .right-container .similar-productTwo {
     width:300px;
     height:200px;
