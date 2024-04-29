@@ -1,16 +1,16 @@
 .main-container {
     margin:20px;
     width:1400px;
-    height:420px;
+    height:460px;
 }
 .main-container .left-container {
     width:720px;
-    height:420px;
+    height:460px;
 }
 
 .main-container .left-container .main-content {
     width: 432px;
-    height: 420px;
+    height: 460px;
 }
 
 .main-container .left-container .main-content img {
@@ -20,18 +20,19 @@
 
 .main-container .left-container .description-product {
     width:288px;
-    height:420px;
+    height:460px;
 }
 
 .main-container .right-container {
     width:680px;
-    height:420px;
+    height:460px;
 }
 
 .main-container .right-container .similar-productOne {
     width:300px;
     height:200px;
     padding: 10px;
+    margin: 15px;
 }
 
 .main-container .right-container .similar-productOne img {
@@ -42,12 +43,14 @@
     width:300px;
     height:200px;
     padding: 10px;
+    margin: 15px;
 }
 
 .main-container .right-container .similar-productThree {
     width: 300px;
     height: 200px;
     padding: 10px;
+    margin: 15px;
 }
 
 .main-container .right-container .similar-productThree img {
@@ -57,6 +60,7 @@
     width: 300px;
     height: 200px;
     padding: 10px;
+    margin: 15px;
 }
 
 .main-container .right-container .similar-productFour img {
